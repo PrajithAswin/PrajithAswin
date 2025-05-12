@@ -1,4 +1,4 @@
-<h2 align="left">Hi there👋! <br>I'm Naveenraj.</h2>
+<h2 align="left">Hi there👋! <br>I'm Prajith ASwin S.</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Software developing project<br>- 🌱 I’m currently learning Software Developer <br>- 🤔 I’m looking for help with internship<br>- 📫 How to reach me: nraj65955@gmail.com <br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: travel and explore more!</p>
+<p align="left">- 🔭 I’m currently working on Software developing project<br>- 🌱 I’m currently learning Software Developer <br>- 🤔 I’m looking for help with internship<br>- 📫 How to reach me: prajithaswin25@gmail.com <br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: travel and explore more!</p>
 
 ###
 
